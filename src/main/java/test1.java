@@ -10,6 +10,8 @@ public class test1 {
 		System.out.println("a" +a);
 		
 		System.out.println("modified apply");
+		
+		int b=20;
 
 	}
 
