@@ -8,6 +8,8 @@ public class test1 {
 		
 		int a=10;
 		System.out.println("a" +a);
+		
+		System.out.println("modified apply");
 
 	}
 
