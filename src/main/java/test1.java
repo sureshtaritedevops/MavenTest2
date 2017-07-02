@@ -7,6 +7,7 @@ public class test1 {
 		System.out.println("Helloworld@@@@@");
 		
 		int a=10;
+		System.out.println("a" +a);
 
 	}
 
