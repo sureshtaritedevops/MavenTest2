@@ -9,7 +9,7 @@ public class test1 {
 		int a=10;
 		System.out.println("a" +a);
 		
-		System.out.println("modified apply");
+		System.out.println("modified apply@@@");
 		
 		int b=20;
 
